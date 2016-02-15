@@ -37,11 +37,10 @@ Everty 10 minutes:
  * Engaged
 
 ## Kolab Dashboard
-
 The one Dasboard to rule them all.
 
 ### Links
-https://dashboard.kolab.cc
+ * https://dashboard.kolab.cc
 
 ### Data
 We collect the following data:
@@ -151,15 +150,16 @@ We collect the following data:
 Aggregate the median plans from every agency.
 
 ### Links
-http://mediadatabase.kolab.223.io
+ * http://mediadatabase.kolab.223.io
 
 ### Data
 We don't save anything useful yet.
 
 ## Bid by weather
 Control Google ads based on the weather
+
 ### Data
-http://www.wunderground.com
+ * http://www.wunderground.com
 
 ## NLAB Dashboard
 Like the Kolab Dashboard, but for Nlab(Nestlé)
@@ -172,13 +172,13 @@ The login can be made in any Dashboard, or via Hub(McCann SP product).
  * http://kitkat.dashboard.nlab.cx/
 
 ### Data
-    Google Spreadsheet
+Google Spreadsheet
 
 ## Paranoid:
- One timeline for the major social media: Facebook, Twitter, Instagram, Youtube
+One timeline for the major social media: Facebook, Twitter, Instagram, Youtube
 
 ### Links
- http://paranoid.gate.cx
+ * http://paranoid.gate.cx
 
 ## Gate.cx:
   The login hub.
