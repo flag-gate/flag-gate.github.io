@@ -240,10 +240,10 @@ The ideals of wabi-sabi come from Japan and the origins are based on keen observ
 
 From this, follows [7 aesthetic principles](http://www.presentationzen.com/presentationzen/2009/09/exposing-ourselves-to-traditional-japanese-aesthetic-ideas-notions-that-may-seem-quite-foreign-to-most-of-us-is-a-goo.html):
 
- * Simplicity or elimination of the non-essential. Things are expressed in a plain, simple, natural manner.
- * Asymmetry or irregularity. Nature itself is full of beauty and harmonious relationships that are asymmetrical yet balanced. This is a dynamic beauty that attracts and engages.
- * Beautiful by being understated, or by being precisely what it was meant to be and not elaborated upon. Direct and simple way, without being flashy. Elegant simplicity, articulate brevity.
- * Naturalness. Absence of pretense or artificiality, show explicit, but unforced, intention. This is a reminder that design is not an accident.
- * Profundity or suggestion rather than revelation. That is, showing more by showing less.
- * Freedom from habit or formula. Transcending the conventional. This principles describes the feeling of surprise and a bit of amazement when one realizes they can have freedom from the conventional.
- * Tranquility or an energized calm (quite), stillness, solitude. This is related to the feeling of active calm and is the opposite feeling expressed by noise and disturbance.
+ * *Simplicity* or elimination of the non-essential. Things are expressed in a plain, simple, natural manner.
+ * *Asymmetry* or irregularity. Nature itself is full of beauty and harmonious relationships that are asymmetrical yet balanced. This is a dynamic beauty that attracts and engages.
+ * Beautiful by being understated, or by being precisely what it was meant to be and not elaborated upon. *Direct* and simple way, without being flashy. Elegant simplicity, articulate brevity.
+ * *Naturalness*. Absence of pretense or artificiality, show explicit, but unforced, intention. This is a reminder that design is not an accident.
+ * Profundity or suggestion rather than revelation. That is, *showing more by showing less*.
+ * Freedom from habit or formula. *Transcending the conventional*. This principles describes the feeling of surprise and a bit of amazement when one realizes they can have freedom from the conventional.
+ * Tranquility or an energized calm (quite), *stillness*, solitude. This is related to the feeling of active calm and is the opposite feeling expressed by noise and disturbance.
