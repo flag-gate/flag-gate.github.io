@@ -24,17 +24,15 @@ For each post:
  * Post creation time
  * Page
  * Was paid?
-
-Everty 10 minutes:
-
- * Reach
- * Organic
- * Viral
- * Paid
- * Comments
- * Likes
- * Shares
- * Engaged
+ * Every 10 minutes:
+     * Reach
+     * Organic
+     * Viral
+     * Paid
+     * Comments
+     * Likes
+     * Shares
+     * Engaged
 
 ## Kolab Dashboard
 The one Dasboard to rule them all.
