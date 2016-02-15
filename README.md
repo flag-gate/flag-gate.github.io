@@ -143,7 +143,7 @@ We collect the following data:
  >                 Views
  >                 TRP of Views
 
-## Media Database:
+## Media Database
 Aggregate the median plans from every agency.
 
 ### Links
@@ -171,16 +171,16 @@ The login can be made in any Dashboard, or via Hub(McCann SP product).
 ### Data
 Google Spreadsheet
 
-## Paranoid:
+## Paranoid
 One timeline for the major social media: Facebook, Twitter, Instagram, Youtube
 
 ### Links
  * http://paranoid.gate.cx
 
-## Gate.cx:
+## Gate.cx
   The login hub.
 
-## Radar MTC:
+## Radar MTC
 Marketing the category made easy.
 
 A email that alert you if anything unusual regarding the brand category is starting.
