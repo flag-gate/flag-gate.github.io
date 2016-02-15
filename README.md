@@ -72,42 +72,46 @@ We collect the following data:
  >             LETRAS.COM.BR
  >     Expion_api
  >         Deprecated.
- >         Dados
- >             Facebook (agora pegamos direto)
- >             Youtube (vamos usar o sprinklr)
- >     Fbads_data
- >         Dados
- >             Facebook
- >                 TRP de impressions
- >                 Reach
- >     Fb_data
- >     Dados
- >         Facebook
- >             (Media.owned, 'TRP', trp_organic),
- >             (Media.earned, 'TRP', trp_earned),
- >             (Media.owned, 'Fans', fans),
- >             (Media.owned, 'Reach', reach),
- >             (Media.earned, 'Engagements', engagements),
- >     Ga_api
- >         Dados
- >             Google Analytics
- >                 TRP de Visits usando ProfileIndex
- >                 Visits
- >                 Time on site
- >     Gdocs_api
- >         Mostrar planilha do google docs
- >     Ibope_analysis
- >         É preciso subir um csv para um ftp
- >         Dados
- >             TRP de Merchandising
- >             TRP de TV
- >     Imusica_api
- >         Dados
- >             TRP de connections
- >             ENGAGED_USERS
- >             TIME_SPENT
- >     Netbase_api
- >         Dados
+ >         Data
+ >             Facebook (Now we fetch directly)
+ >             Youtube (Will use sprinklr)
+ >     Facebook Ads
+ >         Data
+ >             TRP de impressions
+ >             Reach
+ >     Facebook Graph API
+ >     Data
+ >         Organic TRP based on organic impressions,
+ >         TRP based on earned impressions
+ >         Fans count
+ >         Total reach
+ >         Total engagement
+ >     Google Analytics
+ >         Data
+ >             TRP of visits using ProfileIndex
+ >             Visits
+ >             Time on site
+ >     Google Docs
+ >         Data from Coca-Cola that we can't get from the API
+ >             B3
+ >             BrainJuicer
+ >             Nielsen
+ >             Packm
+ >             OOH
+ >             BGS
+ >             BGS
+ >     Ibope
+ >         We need to upload a CSV
+ >         Data
+ >             TRP of Merchandising
+ >             TRP of TV ads
+ >     Imusica
+ >         Data
+ >             TRP of connections
+ >             Engaged users
+ >             Time spent
+ >     Netbase
+ >         Data
  >             Twitter
  >                 tagcloud
  >                 mentions de @cocacola
@@ -143,7 +147,7 @@ We collect the following data:
  >                 Views
  >                 TRP de Views
 
-## Mediadatabase:
+## Media Database:
 Aggregate the median plans from every agency.
 
 ### Links
