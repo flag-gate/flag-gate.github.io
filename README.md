@@ -43,14 +43,14 @@ The one Dasboard to rule them all.
 ### Data
 We collect the following data:
 
- >     Admotion_api
- >         Somatório de todas as Impressões do mês
- >         Somatório de todas os Video views do mês
- >         TRP de impressions (Calculado usando Profile Index)
- >     Adwords_client
- >         TRP de impressions (Calculado usando Profile Index)
- >         Total de Clicks
- >     Comscore_api
+ >     Admotion
+ >         Sum of every month impressions
+ >         Sum of every month video views
+ >         TRP of impressions (Calculated using Profile Index)
+ >     Adwords
+ >         TRP of impressions (Calculated using Profile Index)
+ >         Total clicks
+ >     Comscore
  >         Profile Index
  >         OWNED
  >            COCACOLA.COM.BR
@@ -67,7 +67,7 @@ We collect the following data:
  >             MEGACURIOSO.COM.BR
  >             TodaTeen
  >             LETRAS.COM.BR
- >     Expion_api
+ >     Expion
  >         Deprecated.
  >         Data
  >             Facebook (Now we fetch directly)
@@ -110,8 +110,8 @@ We collect the following data:
  >     Netbase
  >         Data
  >             Twitter
- >                 tagcloud
- >                 mentions de @cocacola
+ >                 Tagcloud
+ >                 Mentions of @cocacola
  >                 NetSentiment
  >                 Buzz Earned
  >                     Total Mentions - total posts #coca-cola (no filter)
@@ -120,29 +120,28 @@ We collect the following data:
  >                 TotalBuzzPost
  >                 PositiveSentiment
  >                 NegativeSentiment
- >                 TRP de impressions - Positivo
- >                 TRP de impressions - Negativo
+ >                 TRP of impressions - Positive
+ >                 TRP of impressions - Negative
  >             Instagram
  >                 Instagram Earned
  >                     Mentions
  >                     TRP - total mentions (domain: instagram.com) / TARGET_UNIVERSE * 100
- >     Paid_video_metrics
- >         Dados
+ >     Paid Video Metrics
+ >         Data
  >             Youtube video views
  >             Facebook video views
  >             Admotion video views
- >             TRP da soma dos views usando ProfileIndex
- >     Twclient
- >         Dados
- >             Twitter
- >                 Followers
- >                 Retweet
- >                 TRP de Followers (Precisamos verificar possível BUG com a Vivian)
- >     Webtrends_api
- >         Dados
+ >             TRP of the sum of views using distinct Profile Index
+ >     Twitter
+ >         Data
+ >             Followers
+ >             Retweet
+ >             TRP of Followers
+ >     Webtrends
+ >         Data
  >             Youtube
  >                 Views
- >                 TRP de Views
+ >                 TRP of Views
 
 ## Media Database:
 Aggregate the median plans from every agency.
