@@ -200,16 +200,16 @@ We are building upon three main foundations, Small Acts Manifesto, The Zen of Py
 ## Small Acts Manifesto.
 Written by some amazing Open Source Communities from Rio de Janeiro, [this manifesto](http://smallactsmanifesto.org/) ruled a lot of very cool initiatives and now is one of our bases:
 
- 1. Trust - which must be respected and never put at risk;
- 2. Dialog - is the way to establish a truly trustful relationship;
- 3. Personal Contact - the richest experience, not matched by any media or technology;
- 4. Transparency - the mean to maintain a sustainable community;
- 5. Diversity - people have many interests, but if you need a label, label yourself as a human;
- 6. Self-organization - leaders come and go, but there should be no owners;
- 7. Example - that's how you teach, live and learn;
- 8. Consistency - things take time, intensity is not always the answer;
- 9. Give, give, give! - you'll be impressed by how fast things will come back;
- 10. Do it! - as simple as you can, just what is essential to pass it forward.
+ 1. *Trust* - which must be respected and never put at risk;
+ 2. *Dialog* - is the way to establish a truly trustful relationship;
+ 3. *Personal* Contact - the richest experience, not matched by any media or technology;
+ 4. *Transparency* - the mean to maintain a sustainable community;
+ 5. *Diversity* - people have many interests, but if you need a label, label yourself as a human;
+ 6. *Self-organization* - leaders come and go, but there should be no owners;
+ 7. *Example* - that's how you teach, live and learn;
+ 8. *Consistency* - things take time, intensity is not always the answer;
+ 9. *Give, give, give!* - you'll be impressed by how fast things will come back;
+ 10. *Do it!* - as simple as you can, just what is essential to pass it forward.
 
 ## The Zen of Python
 
