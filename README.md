@@ -7,11 +7,11 @@ There's a URL for each Facebook Page. There's no page to see everyone, or create
 This project aims to point out the best moment to amplify a Facebook post based on the HLR, a metric we created to summarize the virality of the post.
 
 ### Links
- * http://halflife.gate.cx/#!/coca-cola/columns
- * http://halflife.gate.cx/#!/guarana-kuat-oh-yeah/columns
- * http://halflife.gate.cx/#!/kitkat/columns
- * http://halflife.gate.cx/#!/nescau/columns
- * http://halflife.gate.cx/#!/nestleninho/columns
+ * [Coca-cola](http://halflife.gate.cx/#!/coca-cola/columns)
+ * [Kuat](http://halflife.gate.cx/#!/guarana-kuat-oh-yeah/columns)
+ * [Kitkat](http://halflife.gate.cx/#!/kitkat/columns)
+ * [Nescau](http://halflife.gate.cx/#!/nescau/columns)
+ * [Ninho](http://halflife.gate.cx/#!/nestleninho/columns)
 
 ### Data
 We collect the following data from Facebook:
@@ -38,7 +38,7 @@ For each post:
 The one Dasboard to rule them all.
 
 ### Links
- * https://dashboard.kolab.cc
+ * [Kolab Dashboard](https://dashboard.kolab.cc)
 
 ### Data
 We collect the following data:
@@ -147,7 +147,9 @@ We collect the following data:
 Aggregate the median plans from every agency.
 
 ### Links
- * http://mediadatabase.kolab.223.io
+ * [New account](http://mediadatabase.kolab.223.io/register?next=/campaigns/). After create your account, you need to activate it by sending an email to dev@gate.cx.
+ * [Madia Database](http://mediadatabase.kolab.223.io)
+
 
 ### Data
 We don't save anything useful yet.
@@ -156,7 +158,7 @@ We don't save anything useful yet.
 Control Google ads based on the weather
 
 ### Data
- * http://www.wunderground.com
+ * [Weather Underground](http://www.wunderground.com)
 
 ## NLAB Dashboard
 Like the Kolab Dashboard, but for Nlab(Nestlé)
@@ -164,9 +166,9 @@ Like the Kolab Dashboard, but for Nlab(Nestlé)
 ### Links
 The login can be made in any Dashboard, or via Hub(McCann SP product).
 
- * http://ninho.dashboard.nlab.cx/
- * http://nescau.dashboard.nlab.cx/
- * http://kitkat.dashboard.nlab.cx/
+ * [Ninho](http://ninho.dashboard.nlab.cx/)
+ * [Nescau](http://nescau.dashboard.nlab.cx/)
+ * [Kitkat](http://kitkat.dashboard.nlab.cx/)
 
 ### Data
 Google Spreadsheet
@@ -175,7 +177,8 @@ Google Spreadsheet
 One timeline for the major social media: Facebook, Twitter, Instagram, Youtube
 
 ### Links
- * http://paranoid.gate.cx
+ * [New account](http://accounts.gate.cx/register/?service=paranoid&next=/)
+ * [Paranoid](http://paranoid.gate.cx)
 
 ## Gate.cx
   The login hub.
