@@ -212,25 +212,25 @@ Written by some amazing Open Source Communities from Rio de Janeiro, [this manif
 
 [This poem written](https://www.python.org/dev/peps/pep-0020/) by Tim Peters has captured the soul of Python programming language. We believe that the tools we use plays a important role shaping not only the products we build but also ourselves.
 
- > Beautiful is better than ugly.
- > Explicit is better than implicit.
- > Simple is better than complex.
- > Complex is better than complicated.
- > Flat is better than nested.
- > Sparse is better than dense.
- > Readability counts.
- > Special cases aren't special enough to break the rules.
- > Although practicality beats purity.
- > Errors should never pass silently.
- > Unless explicitly silenced.
- > In the face of ambiguity, refuse the temptation to guess.
- > There should be one-- and preferably only one --obvious way to do it.
- > Although that way may not be obvious at first unless you're Dutch.
- > Now is better than never.
- > Although never is often better than *right* now.
- > If the implementation is hard to explain, it's a bad idea.
- > If the implementation is easy to explain, it may be a good idea.
- > Namespaces are one honking great idea -- let's do more of those!
+ >     Beautiful is better than ugly.
+ >     Explicit is better than implicit.
+ >     Simple is better than complex.
+ >     Complex is better than complicated.
+ >     Flat is better than nested.
+ >     Sparse is better than dense.
+ >     Readability counts.
+ >     Special cases aren't special enough to break the rules.
+ >     Although practicality beats purity.
+ >     Errors should never pass silently.
+ >     Unless explicitly silenced.
+ >     In the face of ambiguity, refuse the temptation to guess.
+ >     There should be one-- and preferably only one --obvious way to do it.
+ >     Although that way may not be obvious at first unless you're Dutch.
+ >     Now is better than never.
+ >     Although never is often better than *right* now.
+ >     If the implementation is hard to explain, it's a bad idea.
+ >     If the implementation is easy to explain, it may be a good idea.
+ >     Namespaces are one honking great idea -- let's do more of those!
 
 ## Wabi Sabi
 The ideals of wabi-sabi come from Japan and the origins are based on keen observations of nature. By really seeing natural beauty for what it was, the Japanese were able to derive key ideals and concepts that are hard to explain in words and need to be experienced and felt to be best understood.
