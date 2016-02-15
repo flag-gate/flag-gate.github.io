@@ -1,0 +1,287 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <title></title>
+    <link href="http://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet" type="text/css" />
+    <link rel="stylesheet" href="http://accounts.gate.cx//static/css/style.css">
+  <style type="text/css">
+    section > div.content{
+      max-width: 600px;
+      margin: 3em auto;
+    }
+    h1{
+      font-size: 3em;
+    }
+    h2{
+      font-size: 2em;
+    }
+    h3{
+      font-size: 1em;
+    }
+    code{
+      font-size: .8em;
+    }
+    blockquote{
+      border-left: 5px solid lightgray;
+    }
+    a{
+      color: blue;
+      font-size: 1em;
+      text-decoration: underline;
+    }
+    em{
+      font-weight: bold;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1 class="gate-logo">Gate.</h1>
+  </header>
+  <section>
+      <div class="content">
+        <p>Gate is a mindset to build simple, modular and intercommunicable applications. We create tools that have one purpose and one purpose alone, with non-obtrusive interfaces that making people agile.</p>
+        <h1>Products</h1>
+        <h2>Halflife</h2>
+        <p>There's a URL for each Facebook Page. There's no page to see everyone, or create a new one.
+        This project aims to point out the best moment to amplify a Facebook post based on the HLR, a metric we created to summarize the virality of the post.</p>
+        <h3>Links</h3>
+        <ul>
+        <li>http://halflife.gate.cx/#!/coca-cola/columns</li>
+        <li>http://halflife.gate.cx/#!/guarana-kuat-oh-yeah/columns</li>
+        <li>http://halflife.gate.cx/#!/kitkat/columns</li>
+        <li>http://halflife.gate.cx/#!/nescau/columns</li>
+        <li>http://halflife.gate.cx/#!/nestleninho/columns</li>
+        </ul>
+        <h3>Data</h3>
+        <p>We collect the following data from Facebook:</p>
+        <p>For each post:</p>
+        <ul>
+        <li>Text</li>
+        <li>Link</li>
+        <li>Picture</li>
+        <li>Post creation time</li>
+        <li>Page</li>
+        <li>Was paid?</li>
+        <li>Every 10 minutes:<ul>
+        <li>Reach</li>
+        <li>Organic</li>
+        <li>Viral</li>
+        <li>Paid</li>
+        <li>Comments</li>
+        <li>Likes</li>
+        <li>Shares</li>
+        <li>Engaged</li>
+        </ul>
+        </li>
+        </ul>
+        <h2>Kolab Dashboard</h2>
+        <p>The one Dasboard to rule them all.</p>
+        <h3>Links</h3>
+        <ul>
+        <li>https://dashboard.kolab.cc</li>
+        </ul>
+        <h3>Data</h3>
+        <p>We collect the following data:</p>
+        <blockquote>
+        <pre><code>
+        Admotion
+            Sum of every month impressions
+            Sum of every month video views
+            TRP of impressions (Calculated using Profile Index)
+        Adwords
+            TRP of impressions (Calculated using Profile Index)
+            Total clicks
+        Comscore
+            Profile Index
+            OWNED
+               COCACOLA.COM.BR
+            PAID
+                TWITTER.COM
+                FACEBOOK.COM
+                VEVO.COM
+                YOUTUBE.COM
+                Yahoo
+                Globo.com Homepage
+                MSN
+                BAIXAKI.COM.BR
+                TECMUNDO.COM.BR
+                MEGACURIOSO.COM.BR
+                TodaTeen
+                LETRAS.COM.BR
+        Expion
+            Deprecated.
+            Data
+                Facebook (Now we fetch directly)
+                Youtube (Will use sprinklr)
+        Facebook Ads
+            Data
+                TRP de impressions
+                Reach
+        Facebook Graph API
+        Data
+            Organic TRP based on organic impressions,
+            TRP based on earned impressions
+            Fans count
+            Total reach
+            Total engagement
+        Google Analytics
+            Data
+                TRP of visits using ProfileIndex
+                Visits
+                Time on site
+        Google Docs
+            Data from Coca-Cola that we can't get from the API
+                B3
+                BrainJuicer
+                Nielsen
+                Packm
+                OOH
+                BGS
+                BGS
+        Ibope
+            We need to upload a CSV
+            Data
+                TRP of Merchandising
+                TRP of TV ads
+        Imusica
+            Data
+                TRP of connections
+                Engaged users
+                Time spent
+        Netbase
+            Data
+                Twitter
+                    Tagcloud
+                    Mentions of @cocacola
+                    NetSentiment
+                    Buzz Earned
+                        Total Mentions - total posts #coca-cola (no filter)
+                        Total Impressions - total impressions #coca-cola (no filter)
+                    Impressions
+                    TotalBuzzPost
+                    PositiveSentiment
+                    NegativeSentiment
+                    TRP of impressions - Positive
+                    TRP of impressions - Negative
+                Instagram
+                    Instagram Earned
+                        Mentions
+                        TRP - total mentions (domain: instagram.com) / TARGET_UNIVERSE * 100
+        Paid Video Metrics
+            Data
+                Youtube video views
+                Facebook video views
+                Admotion video views
+                TRP of the sum of views using distinct Profile Index
+        Twitter
+            Data
+                Followers
+                Retweet
+                TRP of Followers
+        Webtrends
+            Data
+                Youtube
+                    Views
+                    TRP of Views
+        </code></pre>
+        </blockquote>
+        <h2>Media Database</h2>
+        <p>Aggregate the median plans from every agency.</p>
+        <h3>Links</h3>
+        <ul>
+        <li>http://mediadatabase.kolab.223.io</li>
+        </ul>
+        <h3>Data</h3>
+        <p>We don't save anything useful yet.</p>
+        <h2>Bid by weather</h2>
+        <p>Control Google ads based on the weather</p>
+        <h3>Data</h3>
+        <ul>
+        <li>http://www.wunderground.com</li>
+        </ul>
+        <h2>NLAB Dashboard</h2>
+        <p>Like the Kolab Dashboard, but for Nlab(Nestlé)</p>
+        <h3>Links</h3>
+        <p>The login can be made in any Dashboard, or via Hub(McCann SP product).</p>
+        <ul>
+        <li>http://ninho.dashboard.nlab.cx/</li>
+        <li>http://nescau.dashboard.nlab.cx/</li>
+        <li>http://kitkat.dashboard.nlab.cx/</li>
+        </ul>
+        <h3>Data</h3>
+        <p>Google Spreadsheet</p>
+        <h2>Paranoid</h2>
+        <p>One timeline for the major social media: Facebook, Twitter, Instagram, Youtube</p>
+        <h3>Links</h3>
+        <ul>
+        <li>http://paranoid.gate.cx</li>
+        </ul>
+        <h2>Gate.cx</h2>
+        <p>The login hub.</p>
+        <h2>Radar MTC</h2>
+        <p>Marketing the category made easy.</p>
+        <p>A email that alert you if anything unusual regarding the brand category is starting.</p>
+        <h3>Data</h3>
+        <p>We use data from Google Inisights</p>
+        <h1>Values</h1>
+        <h2>Why does it matter?</h2>
+        <p><a href="https://en.wikipedia.org/wiki/Conway's_law">The Conway's law</a> says that we are constrained to produce designs which are copies of our communication structures. So, the work done to improve these structures is worthy.</p>
+        <p>We are building upon three main foundations, Small Acts Manifesto, The Zen of Python and Wabi Sabi philosophy.</p>
+        <h2>Small Acts Manifesto.</h2>
+        <p>Written by some amazing Open Source Communities from Rio de Janeiro, <a href="http://smallactsmanifesto.org/">this manifesto</a> ruled a lot of very cool initiatives and now is one of our bases:</p>
+        <ol>
+        <li><em>Trust</em> - which must be respected and never put at risk;</li>
+        <li><em>Dialog</em> - is the way to establish a truly trustful relationship;</li>
+        <li><em>Personal</em> Contact - the richest experience, not matched by any media or technology;</li>
+        <li><em>Transparency</em> - the mean to maintain a sustainable community;</li>
+        <li><em>Diversity</em> - people have many interests, but if you need a label, label yourself as a human;</li>
+        <li><em>Self-organization</em> - leaders come and go, but there should be no owners;</li>
+        <li><em>Example</em> - that's how you teach, live and learn;</li>
+        <li><em>Consistency</em> - things take time, intensity is not always the answer;</li>
+        <li><em>Give, give, give!</em> - you'll be impressed by how fast things will come back;</li>
+        <li><em>Do it!</em> - as simple as you can, just what is essential to pass it forward.</li>
+        </ol>
+        <h2>The Zen of Python</h2>
+        <p><a href="https://www.python.org/dev/peps/pep-0020/">This poem written</a> by Tim Peters has captured the soul of Python programming language. We believe that the tools we use plays a important role shaping not only the products we build but also ourselves.</p>
+        <blockquote>
+        <pre><code>
+        Beautiful is better than ugly.
+        Explicit is better than implicit.
+        Simple is better than complex.
+        Complex is better than complicated.
+        Flat is better than nested.
+        Sparse is better than dense.
+        Readability counts.
+        Special cases aren't special enough to break the rules.
+        Although practicality beats purity.
+        Errors should never pass silently.
+        Unless explicitly silenced.
+        In the face of ambiguity, refuse the temptation to guess.
+        There should be one-- and preferably only one --obvious way to do it.
+        Although that way may not be obvious at first unless you're Dutch.
+        Now is better than never.
+        Although never is often better than *right* now.
+        If the implementation is hard to explain, it's a bad idea.
+        If the implementation is easy to explain, it may be a good idea.
+        Namespaces are one honking great idea -- let's do more of those!
+        </code></pre>
+        </blockquote>
+        <h2>Wabi Sabi</h2>
+        <p>The ideals of wabi-sabi come from Japan and the origins are based on keen observations of nature. By really seeing natural beauty for what it was, the Japanese were able to derive key ideals and concepts that are hard to explain in words and need to be experienced and felt to be best understood.</p>
+        <p>From this, follows <a href="http://www.presentationzen.com/presentationzen/2009/09/exposing-ourselves-to-traditional-japanese-aesthetic-ideas-notions-that-may-seem-quite-foreign-to-most-of-us-is-a-goo.html">7 aesthetic principles</a>:</p>
+        <ul>
+        <li><em>Simplicity</em> or elimination of the non-essential. Things are expressed in a plain, simple, natural manner.</li>
+        <li><em>Asymmetry</em> or irregularity. Nature itself is full of beauty and harmonious relationships that are asymmetrical yet balanced. This is a dynamic beauty that attracts and engages.</li>
+        <li>Beautiful by being understated, or by being precisely what it was meant to be and not elaborated upon. <em>Direct</em> and simple way, without being flashy. Elegant simplicity, articulate brevity.</li>
+        <li><em>Naturalness</em>. Absence of pretense or artificiality, show explicit, but unforced, intention. This is a reminder that design is not an accident.</li>
+        <li>Profundity or suggestion rather than revelation. That is, <em>showing more by showing less</em>.</li>
+        <li>Freedom from habit or formula. <em>Transcending the conventional</em>. This principles describes the feeling of surprise and a bit of amazement when one realizes they can have freedom from the conventional.</li>
+        <li>Tranquility or an energized calm (quite), <em>stillness</em>, solitude. This is related to the feeling of active calm and is the opposite feeling expressed by noise and disturbance.</li>
+        </ul>
+  </div>
+</section>
+
+</body>
+</html>
