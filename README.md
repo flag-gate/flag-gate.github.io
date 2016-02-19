@@ -74,9 +74,9 @@ We collect the following data:
  >     Admotion
  >         Sum of every month impressions
  >         Sum of every month video views
- >         TRP of impressions (Calculated using Profile Index)
+ >         TRP of impressions
  >     Adwords
- >         TRP of impressions (Calculated using Profile Index)
+ >         TRP of impressions
  >         Total clicks
  >     Comscore
  >         Profile Index
@@ -106,14 +106,14 @@ We collect the following data:
  >             Reach
  >     Facebook Graph API
  >     Data
- >         Organic TRP based on organic impressions,
+ >         Organic TRP
  >         TRP based on earned impressions
  >         Fans count
  >         Total reach
  >         Total engagement
  >     Google Analytics
  >         Data
- >             TRP of visits using ProfileIndex
+ >             TRP of visits
  >             Visits
  >             Time on site
  >     Google Docs
@@ -153,13 +153,13 @@ We collect the following data:
  >             Instagram
  >                 Instagram Earned
  >                     Mentions
- >                     TRP - total mentions (domain: instagram.com) / TARGET_UNIVERSE * 100
+ >                     TRP
  >     Paid Video Metrics
  >         Data
  >             Youtube video views
  >             Facebook video views
  >             Admotion video views
- >             TRP of the sum of views using distinct Profile Index
+ >             TRP of views
  >     Twitter
  >         Data
  >             Followers
